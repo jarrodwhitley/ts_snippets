@@ -1,0 +1,25 @@
+{
+    "cms": [
+        {
+            "name": "MLB Footer Links",
+            "content": {
+                "links": [
+                    {
+                        "url": "https:\/\/www.mlb.com\/official-information\/privacy-policy",
+                        "text": "Privacy Policy"
+                    },
+                    {
+                        "url": "https:\/\/www.mlb.com\/official-information\/terms-of-use",
+                        "text": "Terms of Use"
+                    }
+                ]
+            }
+        }
+    ],
+    "svg": [
+        {
+            "name": "test",
+            "content": "<svg></svg>"
+        }
+    ]
+}
